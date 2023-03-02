@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/MbdxPIz' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://user-images.githubusercontent.com/38772501/222333863-d9720023-bddf-48fd-a956-d02e62f81485.mp4
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with RecordIt  
