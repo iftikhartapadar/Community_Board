@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![QxcYXlVQJb](https://user-images.githubusercontent.com/38772501/213786938-03a3898c-6a36-48fd-8355-b7182c17ab94.gif
+![QxcYXlVQJb](https://recordit.co/QxcYXlVQJb)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with RecordIt  
